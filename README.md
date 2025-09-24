@@ -1,25 +1,11 @@
 ### Hi there 👋
 
-<kbd> M </kbd>
-<kbd> Y </kbd>
-<kbd> . </kbd>
-<kbd> N </kbd>
-<kbd> A </kbd>
-<kbd> M </kbd>
-<kbd> E </kbd>
-<kbd> . </kbd>
-<kbd> I </kbd>
-<kbd> S </kbd>
-<kbd> . </kbd>
 <kbd> D </kbd>
 <kbd> U </kbd>
 <kbd> Y </kbd>
 <kbd> . </kbd>
-<kbd> H </kbd>
-<kbd> E </kbd>
 <kbd> N </kbd>
-<kbd> R </kbd>
-<kbd> Y </kbd>
+<kbd> E </kbd>
 
 ###
 
