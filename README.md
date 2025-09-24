@@ -21,18 +21,6 @@
 <kbd> R </kbd>
 <kbd> Y </kbd>
 
-<kbd> E </kbd>
-<kbd> M </kbd>
-<kbd> A </kbd>
-<kbd> I </kbd>
-<kbd> L </kbd>
-```
-awk 'BEGIN { print "\x64\x75\x79\x2e\x64\x6f\x76\x61\x6e\x40\x63\x68\x6f\x74\x6f\x74\x2e\x76\x6e" }'
-```
-<div align="center">
-  <img src="https://profile-counter.glitch.me/duyne-me/count.svg?"  />
-</div>
-
 ###
 
 <div align="center">
